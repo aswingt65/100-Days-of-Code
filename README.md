@@ -14,3 +14,9 @@ Solving 1 problem a day other than the problem of the day in geeksforgeeks.
 Note:- The position you return should be according to 1-based indexing. <br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%202/day2.py)<br>
 ![day2](Day%202/day2.png)
+
+## Day 3 [12/09/2023]
+<b>Problem :</b> Key Pair<br>
+<b>Statement :</b> Given an array Arr of N positive integers and another number X. Determine whether or not there exist two elements in Arr whose sum is exactly X. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%203/day3.py)<br>
+![day3](Day%203/day3.png)
