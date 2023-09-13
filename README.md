@@ -20,3 +20,11 @@ Note:- The position you return should be according to 1-based indexing. <br>
 <b>Statement :</b> Given an array Arr of N positive integers and another number X. Determine whether or not there exist two elements in Arr whose sum is exactly X. <br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%203/day3.py)<br>
 ![day3](Day%203/day3.png)
+
+## Day 4 [13/09/2023]
+<b>Problem :</b> Wave Array<br>
+<b>Statement :</b> Given a sorted array arr[] of distinct integers. Sort the array into a wave-like array(In Place).
+In other words, arrange the elements into a sequence such that arr[1] >= arr[2] <= arr[3] >= arr[4] <= arr[5].....<br>
+If there are multiple solutions, find the lexicographically smallest one. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%204/day4.py)<br>
+![day4](Day%204/day4.png)
