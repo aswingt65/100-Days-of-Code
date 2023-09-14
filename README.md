@@ -28,3 +28,9 @@ In other words, arrange the elements into a sequence such that arr[1] >= arr[2] 
 If there are multiple solutions, find the lexicographically smallest one. <br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%204/day4.py)<br>
 ![day4](Day%204/day4.png)
+
+## Day 5 [14/09/2023]
+<b>Problem :</b> Bubble Sort<br>
+<b>Statement :</b> Given an Integer N and a list arr. Sort the array using bubble sort algorithm. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%205/day5.py)<br>
+![day5](Day%205/day5.png)
