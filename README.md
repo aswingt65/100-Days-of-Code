@@ -34,3 +34,10 @@ If there are multiple solutions, find the lexicographically smallest one. <br>
 <b>Statement :</b> Given an Integer N and a list arr. Sort the array using bubble sort algorithm. <br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%205/day5.py)<br>
 ![day5](Day%205/day5.png)
+
+## Day 6 [15/09/2023]
+<b>Problem :</b> Find Transition Point<br>
+<b>Statement :</b> Given a sorted array containing only 0s and 1s, find the transition point. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%206/day6.py)<br>
+![day6](Day%206/day6.png)
+
