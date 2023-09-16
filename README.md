@@ -38,6 +38,12 @@ If there are multiple solutions, find the lexicographically smallest one. <br>
 ## Day 6 [15/09/2023]
 <b>Problem :</b> Find Transition Point<br>
 <b>Statement :</b> Given a sorted array containing only 0s and 1s, find the transition point. <br>
-<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%206/day6.py)<br>
+<b>Solution :</b> [click here](https://github.com/aswing0t65/100-Days-of-Code/blob/main/Day%2064/day6.py)<br>
 ![day6](Day%206/day6.png)
 
+## Day 7 [16/09/2023]
+<b>Problem :</b> Union of Two Sorted Arrays<br>
+<b>Statement :</b> Union of two arrays can be defined as the common and distinct elements in the two arrays.
+Given two sorted arrays of size n and m respectively, find their union. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%207/day7.py)<br>
+![day7](Day%207/day7.png)
