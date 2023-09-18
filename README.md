@@ -53,3 +53,9 @@ Given two sorted arrays of size n and m respectively, find their union. <br>
 <b>Statement :</b>Given a linked list of n nodes and a key , the task is to check if the key is present in the linked list or not.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%208/day8.py)<br>
 ![day8](Day%208/day8.png)
+
+## Day 9 [18/09/2023]
+<b>Problem :</b> Insertion Sort<br>
+<b>Statement :</b>The task is to complete the insert() function which is used to implement Insertion Sort.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%209/day9.py)<br>
+![day9](Day%209/day9.png)
