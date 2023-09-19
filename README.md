@@ -59,3 +59,11 @@ Given two sorted arrays of size n and m respectively, find their union. <br>
 <b>Statement :</b>The task is to complete the insert() function which is used to implement Insertion Sort.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%209/day9.py)<br>
 ![day9](Day%209/day9.png)
+
+## Day 9 [18/09/2023]
+<b>Problem :</b> Minimum Cost of ropes<br>
+<b>Statement :</b>There are given N ropes of different lengths, we need to connect these ropes into one rope. The cost to connect two ropes is equal to sum of their lengths.
+The task is to connect the ropes with minimum cost. Given N size array arr[] contains the lengths of the ropes. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2010/day10.py)<br>
+![day10](Day%2010/day10.png)
+
