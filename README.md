@@ -1,6 +1,5 @@
 # 100 Days Coding Challenge
 I'm publicly committing to the 100DaysOfCode Challenge starting today! 
-Solving 1 problem a day other than the problem of the day in geeksforgeeks.
 
 ## Day 1 [10/09/2023]
 <b>Problem :</b> Remove duplicate elements from sorted Array<br>
