@@ -66,3 +66,10 @@ The task is to connect the ropes with minimum cost. Given N size array arr[] con
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2010/day10.py)<br>
 ![day10](Day%2010/day10.png)
 
+## Day 11 [20/09/2023]
+<b>Problem :</b> Level order traversal<br>
+<b>Statement :</b>Given a binary tree, find its level order traversal.
+Level order traversal of a tree is breadth-first traversal for the tree.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2011/day11.py)<br>
+![day11](Day%2011/day11.png)
+
