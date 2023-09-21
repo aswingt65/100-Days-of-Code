@@ -73,3 +73,9 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2011/day11.py)<br>
 ![day11](Day%2011/day11.png)
 
+## Day 12 [21/09/2023]
+<b>Problem :</b> Count the triplets<br>
+<b>Statement :</b>Given an array of distinct integers. The task is to count all the triplets such that sum of two elements equals the third element.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2012/day12.py)<br>
+![day12](Day%2012/day12.png)
+
