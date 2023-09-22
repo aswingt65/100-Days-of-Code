@@ -79,3 +79,8 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2012/day12.py)<br>
 ![day12](Day%2012/day12.png)
 
+## Day 13 [22/09/2023]
+<b>Problem :</b> Delete a Node in Single Linked List<br>
+<b>Statement :</b>Given a singly linked list and an integer x.Delete xth node from the singly linked list.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2013/day13.py)<br>
+![day13](Day%2013/day13.png)
