@@ -84,3 +84,10 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Statement :</b>Given a singly linked list and an integer x.Delete xth node from the singly linked list.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2013/day13.py)<br>
 ![day13](Day%2013/day13.png)
+
+## Day 14 [23/09/2023]
+<b>Problem :</b> Move all zeroes to end of array<br>
+<b>Statement :</b>Given an array arr[] of N positive integers. Push all the zeros of the given array to the right end of the array while maintaining the order of non-zero elements.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2014/day14.py)<br>
+![day14](Day%2014/day14.png)
+
