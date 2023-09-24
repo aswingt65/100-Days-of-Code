@@ -91,3 +91,8 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2014/day14.py)<br>
 ![day14](Day%2014/day14.png)
 
+## Day 15 [24/09/2023]
+<b>Problem :</b> Search in a matrix<br>
+<b>Statement :</b>Given a matrix mat[][] of size N x M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2015/day15.py)<br>
+![day15](Day%2015/day15.png)
