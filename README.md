@@ -96,3 +96,9 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Statement :</b>Given a matrix mat[][] of size N x M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2015/day15.py)<br>
 ![day15](Day%2015/day15.png)
+
+## Day 16 [25/09/2023]
+<b>Problem :</b> Element with left side smaller and right side greater<br>
+<b>Statement :</b>Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2016/day16.py)<br>
+![day16](Day%2016/day16.png)
