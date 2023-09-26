@@ -102,3 +102,11 @@ Level order traversal of a tree is breadth-first traversal for the tree.<br>
 <b>Statement :</b>Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2016/day16.py)<br>
 ![day16](Day%2016/day16.png)
+
+## Day 17 [26/09/2023]
+<b>Problem :</b> Delete Middle of Linked List<br>
+<b>Statement :</b>Given a singly linked list, delete middle of the linked list. For example, if given linked list is 1->2->3->4->5 then linked list should be modified to 1->2->4->5.
+If there are even nodes, then there would be two middle nodes, we need to delete the second middle element. For example, if given linked list is 1->2->3->4->5->6 then it should be modified to 1->2->3->5->6.
+If the input linked list is NULL or has 1 node, then it should return NULL.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2017/day17.py)<br>
+![day17](Day%2017/day17.png)
