@@ -110,3 +110,10 @@ If there are even nodes, then there would be two middle nodes, we need to delete
 If the input linked list is NULL or has 1 node, then it should return NULL.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2017/day17.py)<br>
 ![day17](Day%2017/day17.png)
+
+
+## Day 18 [27/09/2023]
+<b>Problem :</b> Selection Sort<br>
+<b>Statement :</b> Given an unsorted array of size N, use selection sort to sort arr[] in increasing order.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2018/day18.py)<br>
+![day18](Day%2018/day18.png)
