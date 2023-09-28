@@ -117,3 +117,10 @@ If the input linked list is NULL or has 1 node, then it should return NULL.<br>
 <b>Statement :</b> Given an unsorted array of size N, use selection sort to sort arr[] in increasing order.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2018/day18.py)<br>
 ![day18](Day%2018/day18.png)
+
+## Day 19 [28/09/2023]
+<b>Problem :</b> Josephus problem<br>
+<b>Statement :</b> Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction.
+After each operation, the count will start from k+1th person. The task is to choose the safe place in the circle so that when you perform these operations starting from 1st place in the circle, you are the last one remaining and survive.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2019/day19.py)<br>
+![day19](Day%2019/day19.png)
