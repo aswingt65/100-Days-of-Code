@@ -124,3 +124,9 @@ If the input linked list is NULL or has 1 node, then it should return NULL.<br>
 After each operation, the count will start from k+1th person. The task is to choose the safe place in the circle so that when you perform these operations starting from 1st place in the circle, you are the last one remaining and survive.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2019/day19.py)<br>
 ![day19](Day%2019/day19.png)
+
+## Day 20 [29/09/2023]
+<b>Problem :</b> Minimum element in a sorted and rotated array<br>
+<b>Statement :</b> A sorted(in ascending order) array A[ ] with distinct elements is rotated at some unknown point, the task is to find the minimum element in it.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2020/day20.py)<br>
+![day20](Day%2020/day20.png)
