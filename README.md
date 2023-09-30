@@ -130,3 +130,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> A sorted(in ascending order) array A[ ] with distinct elements is rotated at some unknown point, the task is to find the minimum element in it.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2020/day20.py)<br>
 ![day20](Day%2020/day20.png)
+
+## Day 21 [30/09/2023]
+<b>Problem :</b> Max Sum without Adjacents<br>
+<b>Statement :</b> Given an array Arr of size N containing positive integers. Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2021/day21.py)<br>
+![day21](Day%2021/day21.png)
