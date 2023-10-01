@@ -136,3 +136,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Given an array Arr of size N containing positive integers. Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2021/day21.py)<br>
 ![day21](Day%2021/day21.png)
+
+## Day 22 [01/10/2023]
+<b>Problem :</b> Largest subarray of 0's and 1's<br>
+<b>Statement :</b> Given an array of 0s and 1s. Find the length of the largest subarray with equal number of 0s and 1s.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2022/day22.py)<br>
+![day22](Day%2022/day22.png)
