@@ -142,3 +142,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Given an array of 0s and 1s. Find the length of the largest subarray with equal number of 0s and 1s.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2022/day22.py)<br>
 ![day22](Day%2022/day22.png)
+
+## Day 23 [02/10/2023]
+<b>Problem :</b> Count all possible paths from top left to bottom right<br>
+<b>Statement :</b> The task is to count all the possible paths from top left to bottom right of a m X n matrix with the constraints that from each cell you can either move only to right or down.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2023/day23.py)<br>
+![day23](Day%2023/day23.png)
