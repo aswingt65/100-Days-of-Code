@@ -148,3 +148,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> The task is to count all the possible paths from top left to bottom right of a m X n matrix with the constraints that from each cell you can either move only to right or down.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2023/day23.py)<br>
 ![day23](Day%2023/day23.png)
+
+## Day 24 [03/10/2023]
+<b>Problem :</b> Special Stack<br>
+<b>Statement :</b> Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2024/day24.py)<br>
+![day24](Day%2024/day24.png)
