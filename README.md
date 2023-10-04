@@ -154,3 +154,10 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2024/day24.py)<br>
 ![day24](Day%2024/day24.png)
+
+## Day 25 [04/10/2023]
+<b>Problem :</b> K distance from root<br>
+<b>Statement :</b> Given a Binary Tree of size N and an integer K. Print all nodes that are at distance k from root (root is considered at distance 0 from itself). Nodes should be printed from left to right. If k is more that height of tree, nothing should be printed.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2025/day25.py)<br>
+![day25](Day%2025/day25.png)
+
