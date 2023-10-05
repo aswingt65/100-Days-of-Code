@@ -161,3 +161,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2025/day25.py)<br>
 ![day25](Day%2025/day25.png)
 
+## Day 26 [05/10/2023]
+<b>Problem :</b> Rotate by 90 degree<br>
+<b>Statement :</b> Given a square matrix of size N x N. The task is to rotate it by 90 degrees in anti-clockwise direction without using any extra space.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2026/day26.py)<br>
+![day26](Day%2026/day26.png)
+
