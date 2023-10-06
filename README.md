@@ -167,3 +167,8 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2026/day26.py)<br>
 ![day26](Day%2026/day26.png)
 
+## Day 27 [06/10/2023]
+<b>Problem :</b> Check if Linked List is Palindrome<br>
+<b>Statement :</b> Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2027/day27.py)<br>
+![day27](Day%2027/day27.png)
