@@ -172,3 +172,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2027/day27.py)<br>
 ![day27](Day%2027/day27.png)
+
+## Day 28 [07/10/2023]
+<b>Problem :</b> Find the number of islands<br>
+<b>Statement :</b> Given a grid of size n*m (n is the number of rows and m is the number of columns in the grid) consisting of '0's (Water) and '1's(Land). Find the number of islands.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2028/day28.py)<br>
+![day28](Day%2028/day28.png)
