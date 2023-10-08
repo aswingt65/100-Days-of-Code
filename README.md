@@ -178,3 +178,10 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Given a grid of size n*m (n is the number of rows and m is the number of columns in the grid) consisting of '0's (Water) and '1's(Land). Find the number of islands.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2028/day28.py)<br>
 ![day28](Day%2028/day28.png)
+
+## Day 29 [08/10/2023]
+<b>Problem :</b> Lowest Common Ancestor in a Binary Tree<br>
+<b>Statement :</b> Given a Binary Tree with all unique values and two nodes value, n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them are present.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2029/day29.py)<br>
+![day29](Day%2029/day29.png)
+
