@@ -185,3 +185,8 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2029/day29.py)<br>
 ![day29](Day%2029/day29.png)
 
+## Day 30 [09/10/2023]
+<b>Problem :</b> Next Permutation<br>
+<b>Statement :</b> Implement the next permutation, which rearranges the list of numbers into Lexicographically next greater permutation of list of numbers. If such arrangement is not possible, it must be rearranged to the lowest possible order i.e. sorted in an ascending order. You are given an list of numbers arr[ ] of size N.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2030/day30.py)<br>
+![day30](Day%2030/day30.png)
