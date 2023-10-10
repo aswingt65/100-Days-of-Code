@@ -190,3 +190,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Implement the next permutation, which rearranges the list of numbers into Lexicographically next greater permutation of list of numbers. If such arrangement is not possible, it must be rearranged to the lowest possible order i.e. sorted in an ascending order. You are given an list of numbers arr[ ] of size N.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2030/day30.py)<br>
 ![day30](Day%2030/day30.png)
+
+## Day 31 [10/10/2023]
+<b>Problem :</b> Validate an IP Address<br>
+<b>Statement :</b> Write a program to Validate an IPv4 Address. A valid IPv4 Address is of the form x1.x2.x3.x4 where 0 <= (x1, x2, x3, x4) <= 255. Thus, we can write the generalized form of an IPv4 address as (0-255).(0-255).(0-255).(0-255).<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2031/day31.py)<br>
+![day31](Day%2031/day31.png)
