@@ -196,3 +196,15 @@ After each operation, the count will start from k+1th person. The task is to cho
 <b>Statement :</b> Write a program to Validate an IPv4 Address. A valid IPv4 Address is of the form x1.x2.x3.x4 where 0 <= (x1, x2, x3, x4) <= 255. Thus, we can write the generalized form of an IPv4 address as (0-255).(0-255).(0-255).(0-255).<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2031/day31.py)<br>
 ![day31](Day%2031/day31.png)
+
+## Day 32 [11/10/2023]
+<b>Problem :</b> Total Decoding Messages<br>
+<b>Statement :</b> A top secret message containing letters from A-Z is being encoded to numbers using the following mapping:<br>
+
+'A' -> 1<br>
+'B' -> 2<br>
+...<br>
+'Z' -> 26<br>
+You are an FBI agent. You have to determine the total number of ways that message can be decoded, as the answer can be large return the answer modulo 10^9 + 7.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2032/day32.py)<br>
+![day32](Day%2032/day32.png)
