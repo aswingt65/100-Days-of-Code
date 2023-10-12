@@ -208,3 +208,9 @@ After each operation, the count will start from k+1th person. The task is to cho
 You are an FBI agent. You have to determine the total number of ways that message can be decoded, as the answer can be large return the answer modulo 10^9 + 7.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2032/day32.py)<br>
 ![day32](Day%2032/day32.png)
+
+## Day 33 [12/10/2023]
+<b>Problem :</b> Maximum of all subarrays of size k<br>
+<b>Statement :</b> Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2033/day33.py)<br>
+![day33](Day%2033/day33.png)
