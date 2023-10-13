@@ -214,3 +214,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2033/day33.py)<br>
 ![day33](Day%2033/day33.png)
+
+## Day 34 [13/10/2023]
+<b>Problem :</b> Pythagorean Triplet<br>
+<b>Statement :</b> Given an array arr of n integers, write a function that returns true if there is a triplet (a, b, c) from the array (where a, b, and c are on different indexes) that satisfies a^2 + b^2 = c^2, otherwise return false.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2034/day34.py)<br>
+![day34](Day%2034/day34.png)
