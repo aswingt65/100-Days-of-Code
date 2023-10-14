@@ -220,3 +220,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given an array arr of n integers, write a function that returns true if there is a triplet (a, b, c) from the array (where a, b, and c are on different indexes) that satisfies a^2 + b^2 = c^2, otherwise return false.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2034/day34.py)<br>
 ![day34](Day%2034/day34.png)
+
+## Day 35 [14/10/2023]
+<b>Problem :</b> Connect Nodes at Same Level<br>
+<b>Statement :</b> Given a binary tree, connect the nodes that are at same level. You'll be given an addition nextRight pointer for the same. Initially, all the nextRight pointers point to garbage values. Your function should set these pointers to point next right for each node.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2035/day35.py)<br>
+![day35](Day%2035/day35.png)
