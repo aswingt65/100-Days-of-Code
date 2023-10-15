@@ -226,3 +226,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given a binary tree, connect the nodes that are at same level. You'll be given an addition nextRight pointer for the same. Initially, all the nextRight pointers point to garbage values. Your function should set these pointers to point next right for each node.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2035/day35.py)<br>
 ![day35](Day%2035/day35.png)
+
+## Day 36 [15/10/2023]
+<b>Problem :</b> Implementing Dijkstra Algorithm<br>
+<b>Statement :</b> Given a weighted, undirected and connected graph of V vertices and an adjacency list adj where adj[i] is a list of lists containing two integers where the first integer of each list j denotes there is edge between i and j , second integers corresponds to the weight of that  edge . You are given the source vertex S and You to Find the shortest distance of all the vertex's from the source vertex S. You have to return a list of integers denoting shortest distance between each node and Source vertex S.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2036/day36.py)<br>
+![day36](Day%2036/day36.png)
