@@ -232,3 +232,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given a weighted, undirected and connected graph of V vertices and an adjacency list adj where adj[i] is a list of lists containing two integers where the first integer of each list j denotes there is edge between i and j , second integers corresponds to the weight of that  edge . You are given the source vertex S and You to Find the shortest distance of all the vertex's from the source vertex S. You have to return a list of integers denoting shortest distance between each node and Source vertex S.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2036/day36.py)<br>
 ![day36](Day%2036/day36.png)
+
+## Day 37 [16/10/2023]
+<b>Problem :</b> Knapsack with Duplicate Items<br>
+<b>Statement :</b> Given a set of N items, each with a weight and a value, represented by the array w and val respectively. Also, a knapsack with weight limit W. The task is to fill the knapsack in such a way that we can get the maximum profit. Return the maximum profit.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2037/day37.py)<br>
+![day37](Day%2037/day37.png)
