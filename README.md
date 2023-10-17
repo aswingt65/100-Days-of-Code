@@ -238,3 +238,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given a set of N items, each with a weight and a value, represented by the array w and val respectively. Also, a knapsack with weight limit W. The task is to fill the knapsack in such a way that we can get the maximum profit. Return the maximum profit.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2037/day37.py)<br>
 ![day37](Day%2037/day37.png)
+
+## Day 38 [17/10/2023]
+<b>Problem :</b> Minimum Spanning Tree<br>
+<b>Statement :</b> Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the Minimum Spanning Tree. Given  adjacency list adj as input parameters . Here adj[i] contains vectors of size 2, where the first integer in that vector denotes the end of the edge and the second integer denotes the edge weight.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2038/day38.py)<br>
+![day38](Day%2038/day38.png)
