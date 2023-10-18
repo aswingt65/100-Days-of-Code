@@ -244,3 +244,9 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the Minimum Spanning Tree. Given  adjacency list adj as input parameters . Here adj[i] contains vectors of size 2, where the first integer in that vector denotes the end of the edge and the second integer denotes the edge weight.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2038/day38.py)<br>
 ![day38](Day%2038/day38.png)
+
+## Day 39 [18/10/2023]
+<b>Problem :</b> Construct Tree from Inorder & Preorder<br>
+<b>Statement :</b> Given 2 Arrays of Inorder and preorder traversal. The tree can contain duplicate elements. Construct a tree and print the Postorder traversal. <br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2039/day39.py)<br>
+![day39](Day%2039/day39.png)
