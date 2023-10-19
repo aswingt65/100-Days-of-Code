@@ -250,3 +250,18 @@ You are an FBI agent. You have to determine the total number of ways that messag
 <b>Statement :</b> Given 2 Arrays of Inorder and preorder traversal. The tree can contain duplicate elements. Construct a tree and print the Postorder traversal. <br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2039/day39.py)<br>
 ![day39](Day%2039/day39.png)
+
+## Day 40 [19/10/2023]
+<b>Problem :</b> Egg Dropping Puzzle<br>
+<b>Statement :</b> You are given N identical eggs and you have access to a K-floored building from 1 to K. There exists a floor f where 0 <= f <= K such that any egg dropped from a floor higher than f will break, and any egg dropped from or below floor f will not break. There are few rules given below.<br>
+<ul>
+<li>An egg that survives a fall can be used again.</li>
+<li>A broken egg must be discarded.</li>
+<li>The effect of a fall is the same for all eggs.</li>
+<li>If the egg doesn't break at a certain floor, it will not break at any floor below.</li>
+<li>If the eggs breaks at a certain floor, it will break at any floor above.</li>
+</ul>
+
+Return the minimum number of moves that you need to determine with certainty what the value of f is.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2040/day40.py)<br>
+![day40](Day%2040/day40.png)
