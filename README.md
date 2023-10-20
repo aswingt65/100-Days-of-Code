@@ -265,3 +265,11 @@ You are an FBI agent. You have to determine the total number of ways that messag
 Return the minimum number of moves that you need to determine with certainty what the value of f is.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2040/day40.py)<br>
 ![day40](Day%2040/day40.png)
+
+## Day 41 [20/10/2023]
+<b>Problem :</b> Floyd Warshall<br>
+<b>Statement :</b> The problem is to find the shortest distances between every pair of vertices in a given edge-weighted directed graph. The graph is represented as an adjacency matrix of size n*n. Matrix[i][j] denotes the weight of the edge from i to j. If Matrix[i][j]=-1, it means there is no edge from i to j.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2041/day41.py)<br>
+![day41](Day%2041/day41.png)
+
+
