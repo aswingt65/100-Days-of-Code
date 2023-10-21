@@ -272,4 +272,16 @@ Return the minimum number of moves that you need to determine with certainty wha
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2041/day41.py)<br>
 ![day41](Day%2041/day41.png)
 
+## Day 42 [21/10/2023]
+<b>Problem :</b> <br>
+<b>Statement :</b> Given a gold mine called M of (n x m) dimensions. Each field in this mine contains a positive integer which is the amount of gold in tons. Initially the miner can start from any row in the first column. From a given cell, the miner can move<br>
+<ol>
+  <li>to the cell diagonally up towards the right</li>
+  <li>to the right</li>
+  <li>to the cell diagonally down towards the right</li>
+</ol>
+Find out maximum amount of gold which he can collect.<br>
+
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2042/day42.py)<br>
+![day42](Day%2042/day42.png)
 
