@@ -285,3 +285,8 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2042/day42.py)<br>
 ![day42](Day%2042/day42.png)
 
+## Day 43 [22/10/2023]
+<b>Problem :</b> Min distance between two given nodes of a Binary Tree<br>
+<b>Statement :</b> Given a binary tree and two node values your task is to find the minimum distance between them. The given two nodes are guaranteed to be in the binary tree and nodes are numbered from 1 to N. Please Note that a and b are not always leaf node.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2043/day43.py)<br>
+![day43](Day%2043/day43.png)
