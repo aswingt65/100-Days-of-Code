@@ -290,3 +290,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given a binary tree and two node values your task is to find the minimum distance between them. The given two nodes are guaranteed to be in the binary tree and nodes are numbered from 1 to N. Please Note that a and b are not always leaf node.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2043/day43.py)<br>
 ![day43](Day%2043/day43.png)
+
+## Day 44 [23/10/2023]
+<b>Problem :</b> M-Coloring Problem<br>
+<b>Statement :</b> Given an undirected graph and an integer M. The task is to determine if the graph can be colored with at most M colors such that no two adjacent vertices of the graph are colored with the same color. Here coloring of a graph means the assignment of colors to all vertices. Print 1 if it is possible to colour vertices and 0 otherwise.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2044/day44.py)<br>
+![day44](Day%2044/day44.png)
