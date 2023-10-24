@@ -296,3 +296,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given an undirected graph and an integer M. The task is to determine if the graph can be colored with at most M colors such that no two adjacent vertices of the graph are colored with the same color. Here coloring of a graph means the assignment of colors to all vertices. Print 1 if it is possible to colour vertices and 0 otherwise.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2044/day44.py)<br>
 ![day44](Day%2044/day44.png)
+
+## Day 45 [24/10/2023]
+<b>Problem :</b> Shortest Common Supersequence<br>
+<b>Statement :</b> Given two strings X and Y of lengths m and n respectively, find the length of the smallest string which has both, X and Y as its sub-sequences.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2045/day45.py)<br>
+![day45](Day%2045/day45.png)
