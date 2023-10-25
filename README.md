@@ -302,3 +302,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given two strings X and Y of lengths m and n respectively, find the length of the smallest string which has both, X and Y as its sub-sequences.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2045/day45.py)<br>
 ![day45](Day%2045/day45.png)
+
+## Day 46 [25/10/2023]
+<b>Problem :</b> Smallest distinct window<br>
+<b>Statement :</b> Given a string 's'. The task is to find the smallest window length that contains all the characters of the given string at least one time.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2046/day46.py)<br>
+![day46](Day%2046/day46.png)
