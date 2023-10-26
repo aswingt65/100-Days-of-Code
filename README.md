@@ -308,3 +308,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given a string 's'. The task is to find the smallest window length that contains all the characters of the given string at least one time.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2046/day46.py)<br>
 ![day46](Day%2046/day46.png)
+
+## Day 47 [26/10/2023]
+<b>Problem :</b> Word Break<br>
+<b>Statement :</b> Given a string A and a dictionary of n words B, find out if A can be segmented into a space-separated sequence of dictionary words.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2047/day47.py)<br>
+![day47](Day%2047/day47.png)
