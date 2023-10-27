@@ -314,3 +314,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given a string A and a dictionary of n words B, find out if A can be segmented into a space-separated sequence of dictionary words.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2047/day47.py)<br>
 ![day47](Day%2047/day47.png)
+
+## Day 48 [27/10/2023]
+<b>Problem :</b> Strongly Connected Components (Kosaraju's Algo)<br>
+<b>Statement :</b> Given a Directed Graph with V vertices (Numbered from 0 to V-1) and E edges, Find the number of strongly connected components in the graph.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2048/day48.py)<br>
+![day48](Day%2048/day48.png)
