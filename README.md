@@ -320,3 +320,9 @@ Find out maximum amount of gold which he can collect.<br>
 <b>Statement :</b> Given a Directed Graph with V vertices (Numbered from 0 to V-1) and E edges, Find the number of strongly connected components in the graph.<br>
 <b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2048/day48.py)<br>
 ![day48](Day%2048/day48.png)
+
+## Day 49 [28/10/2023]
+<b>Problem :</b> Steps by Knight<br>
+<b>Statement :</b> Given a square chessboard, the initial position of Knight and position of a target. Find out the minimum steps a Knight will take to reach the target position.<br>
+<b>Solution :</b> [click here](https://github.com/aswingt65/100-Days-of-Code/blob/main/Day%2049/day49.py)<br>
+![day49](Day%2049/day49.png)
